@@ -1,12 +1,10 @@
 # Hi everyone 👋
 
-I'm a software engineer from Turkmenistan.
+SWE from Turkmenistan.
 
 ## About me
 
-I'm a software engineer focused on building practical software and open-source projects. I enjoy solving algorithmic problems, contributing to production applications, and creating tools that make education and daily life more accessible.
-
-Currently, I contribute to XMobile, maintain personal projects like UniPath, Aegis, and Pulse, and continue expanding my skills across full-stack development.
+Life enjoyer by building stuff for fun.
 
 <br />
 
