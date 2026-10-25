@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-SWE from Turkmenistan.
+SWE from Turkmenistan. Fetching bachelors from Universiti Malaya.
 
 ## About me
 
